@@ -29,9 +29,9 @@ public class StudentsGrade {
 
     Double FinalTutionFee = BaseTutionFee -(BaseTutionFee*DiscountPercentage/100);
 
-    System.out.println("Student's GradeLevel : " + StudentsGradeLevel);
-    System.out.println("Base TutionFee: RS" +BaseTutionFee);
+    System.out.println("Students GradeLevel : " + StudentsGradeLevel);
+    System.out.println("Base TutionFee: RS " +BaseTutionFee);
     System.out.println("Discount Percentage : " + DiscountPercentage + "%");
-    System.out.println("FinalTutionFee:RS" +FinalTutionFee );
+    System.out.println("FinalTutionFee: RS " +FinalTutionFee );
    }
 }
