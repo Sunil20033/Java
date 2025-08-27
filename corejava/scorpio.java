@@ -1,3 +1,4 @@
+package corejava;
 public class scorpio{
     public static void main(String[] args) {
 

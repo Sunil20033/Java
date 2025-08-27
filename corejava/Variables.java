@@ -1,3 +1,4 @@
+package corejava;
 public class Variables {
   byte StudentGrade;
   short StudenteID;
